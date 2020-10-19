@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/python-discord/bot)](https://repl.it/github/python-discord/bot)
+
 # Python Utility Bot
 
 [![Discord](https://img.shields.io/static/v1?label=Python%20Discord&logo=discord&message=%3E60k%20members&color=%237289DA&logoColor=white)](https://discord.gg/2B963hn)
